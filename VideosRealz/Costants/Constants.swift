@@ -12,7 +12,7 @@ struct K {
     static let PLAYLIST_ID   = "PLKrpEodZXM8iZWTA8C49aQOUS6YWnspcQ"
     static let CLIENT_ID     = "849327685418-0t5t7t1v92vij31dtg9sg2b59c89k6hu.apps.googleusercontent.com"
     static let CELL_ID       = "ReelCollectionViewCell"
-    static let CORNER_RADUIS = 10.0
+    static let CORNER_RADUIS = 15.0
     static let BORDER_WIDTH  = 0.5
 }
 

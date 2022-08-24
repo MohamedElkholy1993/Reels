@@ -53,7 +53,7 @@
                                 </userDefinedRuntimeAttributes>
                             </collectionView>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="MX8-aQ-ZJx" customClass="YTPlayerView" customModule="youtube_ios_player_helper_swift">
-                                <rect key="frame" x="10" y="342" width="394" height="510"/>
+                                <rect key="frame" x="0.0" y="342" width="414" height="510"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                             </view>
                         </subviews>
@@ -64,11 +64,11 @@
                             <constraint firstItem="6GO-pi-7Ib" firstAttribute="top" secondItem="sXP-t5-XhU" secondAttribute="bottom" constant="20" id="8hb-Ps-cfE"/>
                             <constraint firstItem="sXP-t5-XhU" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="40" id="Lpm-9o-HaG"/>
                             <constraint firstItem="MX8-aQ-ZJx" firstAttribute="top" secondItem="6GO-pi-7Ib" secondAttribute="bottom" constant="10" id="Zsv-Xq-Dua"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="MX8-aQ-ZJx" secondAttribute="trailing" constant="10" id="jAd-xc-WH9"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="MX8-aQ-ZJx" secondAttribute="trailing" id="jAd-xc-WH9"/>
                             <constraint firstItem="6GO-pi-7Ib" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.25" id="jYg-iN-Y8k"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="MX8-aQ-ZJx" secondAttribute="bottom" constant="10" id="mWm-fh-NqR"/>
                             <constraint firstItem="6GO-pi-7Ib" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="opk-y9-vtO"/>
-                            <constraint firstItem="MX8-aQ-ZJx" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="10" id="tJ4-vT-ghb"/>
+                            <constraint firstItem="MX8-aQ-ZJx" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="tJ4-vT-ghb"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="6GO-pi-7Ib" secondAttribute="trailing" id="u9r-hp-oML"/>
                         </constraints>
                     </view>
