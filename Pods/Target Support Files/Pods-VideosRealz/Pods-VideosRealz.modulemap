@@ -1,0 +1,6 @@
+framework module Pods_VideosRealz {
+  umbrella header "Pods-VideosRealz-umbrella.h"
+
+  export *
+  module * { export * }
+}
